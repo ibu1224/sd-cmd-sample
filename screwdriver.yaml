@@ -20,7 +20,7 @@ jobs:
   use-cmd:
     requires: []
     steps:  
-      - sd-cmd exec ibu1224/sum@1.0.0 1 1
+      - sd-cmd exec ibu1224/sum@latest 1 1
    
   token:
      requires: []
